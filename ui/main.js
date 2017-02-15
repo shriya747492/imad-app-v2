@@ -7,5 +7,5 @@ console.log('Loaded!');
  var img = document.getElementById("move_image");
  
  img.onclick= function(){
-     img.style.marginleft = '100px';
+     img.style.marginright = '200px';
  };
